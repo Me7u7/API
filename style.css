@@ -1,0 +1,28 @@
+body {
+font-family: "Creepster", system-ui;
+text-align: center;
+color:  #0b03ff;
+padding: 20px;
+background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f696566-9528-4234-a4d3-ebdfdc6cab59/dgsy3sl-c64b8f40-84c1-4213-9422-6783ac864618.png/v1/fill/w_1920,h_1077,q_80,strp/rick_and_morty_by_slimshadywallpaper_dgsy3sl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmNjk2NTY2LTk1MjgtNDIzNC1hNGQzLWViZGZkYzZjYWI1OVwvZGdzeTNzbC1jNjRiOGY0MC04NGMxLTQyMTMtOTQyMi02NzgzYWM4NjQ2MTgucG5nIiwiaGVpZ2h0IjoiPD0xMDc3Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvOGY2OTY1NjYtOTUyOC00MjM0LWE0ZDMtZWJkZmRjNmNhYjU5XC9zbGltc2hhZHl3YWxscGFwZXItNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0._8s5pa757pXnDqbgAd2CmBxL0ysBdS4KjCPzNgvP__8');
+}
+
+#fetch-btn {
+padding: 10px 20px;
+font-size: 16px;
+margin-bottom: 20px;
+cursor: pointer;
+background-color: chartreuse;
+font-family: "Creepster", system-ui;
+font-weight: 400;
+font-style: normal;
+}
+
+#axios-btn{
+padding: 10px 20px;
+font-size: 16px;
+margin-bottom: 20px;
+cursor: pointer;
+background-color: chartreuse;
+font-family: "Creepster", system-ui;
+}
+
